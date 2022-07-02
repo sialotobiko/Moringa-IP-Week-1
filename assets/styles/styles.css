@@ -1,0 +1,21 @@
+.topnav{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    
+}
+.vallie{
+    font-family: 'Oleo Script'; font-size: 30px;
+    padding: 30px;
+}
+.home{
+    color: blue;
+}
+a{
+    text-decoration: none;
+    color:black;
+}
+a:hover{
+    color: #0F298B;
+
+}
