@@ -36,3 +36,39 @@ a:hover{
 hr{
     border-style:ridge;
 }
+img{
+    float: right;
+    height: 600px;
+    width: 1000px;
+    display: flex;
+}
+.helping{
+    color:#0F298B;
+    font-family: 'Space Gtotesk';
+}
+.learnmorebutton{
+    background-color: #0F298B;
+    color: white;
+    font-weight: bold;
+    font-family: 'Space Grotesk';
+    font-size: 20px;
+    width: 150px;
+    height: 50px;
+    border-radius: 10%;
+}
+.options{
+    display: flex;
+    overflow: auto;
+    align-items: center;
+    justify-content: space-around;
+}
+.searchbutton{
+    background-color: #0F298B;
+    color: white;
+    font-weight: bold;
+    font-family: 'Space Grotesk';
+    font-size: 20px;
+    width: 150px;
+    height: 50px;
+    border-radius: 10%;
+}
