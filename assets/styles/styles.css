@@ -191,3 +191,21 @@ img{
 #saying{
     column-count: 3;
 }
+#bottomnavbar{
+    display: flex;
+    background-color: #0F298B;
+    justify-items: center;
+    justify-content: space-around;
+    font-size: 15pt;
+    word-wrap:normal;
+}
+.vallie2{
+    font-family: 'Oleo Script';
+}
+#sol{
+    font-size: 12pt;
+    border: 1px solid red; 
+}
+.property2{
+    font-size: 12pt;
+}
