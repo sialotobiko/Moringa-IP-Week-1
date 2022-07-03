@@ -209,6 +209,9 @@ img{
     width: 33.33%;
     padding: 5px;
 }
+#rory{
+    box-shadow: 10px 10px 10px lightgray;
+}
 #twok{
     color: #0F298B;
 }
