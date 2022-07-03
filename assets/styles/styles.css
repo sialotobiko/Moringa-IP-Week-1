@@ -67,9 +67,9 @@ img{
     justify-content: space-around;
     margin: 30px;
     background-color: white;
-    padding: 100px;
+    padding: 50px;
     font-size: 30px;
-    box-shadow: inset;
+    box-shadow: 10px 10px 10px lightgray;
 }
 .searchbutton{
     background-color: #0F298B;
@@ -86,16 +86,47 @@ img{
     font-weight: bold;
     font-family: 'Space Grotesk';
     font-size: 20px;
+    border: none;
+    background-color: white;
+    color: #0F298B;
 }
 #property{
     padding: 5px;
     font-weight: bold;
     font-family: 'Space Grotesk';
     font-size: 20px;
+    border: none;
+    background-color: white;
+    color: #0F298B;
 }
 #price{
     padding: 5px;
     font-weight: bold;
     font-family: 'Space Grotesk';
     font-size: 20px;
+    border: none;
+    background-color: white;
+    color: #0F298B;
+}
+.products{
+    color: #0F298B;
+}
+.how{
+    color: #0F298B;
+    text-align: center;
+}
+.works{
+    color: black;
+    text-align: center;
+}
+.options2{
+    display: flex;
+
+}
+#findhomeimg{
+    height: 100px;
+    width: 100px;
+}
+#findhomedesc{
+    font-size: 15px;
 }
