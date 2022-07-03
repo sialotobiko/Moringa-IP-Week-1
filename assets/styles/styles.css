@@ -44,7 +44,11 @@ img{
 }
 .helping{
     color:#0F298B;
-    font-family: 'Space Gtotesk';
+    font-family: 'Space Grotesk';
+    font-size: 60pt;
+}
+.creating{
+    font-size: 30pt;
 }
 .learnmorebutton{
     background-color: #0F298B;
