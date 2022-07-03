@@ -208,9 +208,9 @@ img{
     float: left;
     width: 33.33%;
     padding: 5px;
-.palacetxt{
-    column-count: 2;
 }
+#twok{
+    color: #0F298B;
 }
 #viewmorediv{
     display: flex;
