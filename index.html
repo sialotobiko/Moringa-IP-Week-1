@@ -28,11 +28,28 @@
     <br>
     <br>
 
-    <div class="options">
-        <div>Location</div>
-        <div>Property Type</div>
-        <div>Max Price</div>
-        <a href = "#search"><button class="searchbutton">Search</button></a>
-    </div>      
+    
+        <div class="options">
+            <form class="location">
+                <select name="places" id="places">
+                    <option value="loc">Location</option>
+                    <option value="lekki">Lekki</option>
+                </select>
+            </form>
+            <form class="propertytype">
+                <select name="property" id="property">
+                    <option value="prop">Property</option>
+                    <option value="duplex">Duplex</option>
+                </select>
+            </form>
+            <form class="maxprice">
+                <select name="price" id="price">
+                    <option value="max">Max Price</option>
+                    <option value="$10000">$10000</option>
+                </select>
+            </form>
+            <a href = "#search"><button class="searchbutton">Search</button></a>
+        </div>    
+    
 </body>
 </html>
