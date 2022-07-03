@@ -157,16 +157,34 @@ img{
 
 }
 #thepalace{
-    height: 400px;
+    height: 300px;
     width: 500px;
+    justify-content:space-around;
+    align-items:center;
+    padding: 50px;
 }
 #therory{
-    height: 400px;
+    height: 300px;
     width: 500px;
+    justify-content:space-around;
+    align-items:center;
+    padding: 50px;
 }
 #rexona{
-    height: 400px;
+    height: 300px;
     width: 500px;
-    justify-content: space-around;
-    align-items:stretch;
+    justify-content:space-around;
+    align-items:center;
+    padding: 50px;
+}
+#viewmorediv{
+    display: flex;
+    justify-content: flex-end;
+}
+#viewmorebutton{
+    background-color: #0F298B;
+    color: white;
+    font-size: 15pt;
+    padding: 10px;
+    border-radius: 10%;
 }
