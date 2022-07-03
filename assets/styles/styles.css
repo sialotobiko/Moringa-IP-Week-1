@@ -19,7 +19,7 @@ a{
     color:black;
 }
 a:hover{
-    color: #0F298B;
+    color: yellow;
 
 }
 .getstartedbutton{
@@ -201,11 +201,9 @@ img{
 }
 .vallie2{
     font-family: 'Oleo Script';
+    a:hover
 }
 #sol{
-    font-size: 12pt;
-    border: 1px solid red; 
-}
-.property2{
-    font-size: 12pt;
+    font-size: 15pt;
+    width: 5cm; 
 }
