@@ -152,7 +152,21 @@ img{
 #biggest{
     text-align: center;
 }
-/*#featuredproperties{
+#featuredproperties{
     display: flex;
+
 }
-*/
+#thepalace{
+    height: 400px;
+    width: 500px;
+}
+#therory{
+    height: 400px;
+    width: 500px;
+}
+#rexona{
+    height: 400px;
+    width: 500px;
+    justify-content: space-around;
+    align-items:stretch;
+}
