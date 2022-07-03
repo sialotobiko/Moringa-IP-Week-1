@@ -130,3 +130,18 @@ img{
 #findhomedesc{
     font-size: 15px;
 }
+.whychooseusdiv{
+    display: flex;
+}
+.whyh3{
+    color: #0F298B;
+    font-size: 40pt;
+}
+.whyh5{
+    font-size: 20pt;
+}
+#whyul{
+    column-count: 2;
+    font-weight: bold;
+    list-style: disc;
+}
