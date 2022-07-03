@@ -144,6 +144,14 @@ img{
 .makepaymentsdiv{
     display: flex;
     flex-direction: column;
+    overflow: auto;
+    align-items: center;
+    justify-content: space-around;
+    margin: 30px;
+    background-color: white;
+    padding: 50px;
+    font-size: 30px;
+    box-shadow: 10px 10px 10px lightgray;
 }
 .makeitofficialdiv{
     display: flex;
@@ -195,6 +203,14 @@ img{
     justify-content:space-around;
     align-items:center;
     padding: 50px;
+}
+#palace{
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+.palacetxt{
+    column-count: 2;
+}
 }
 #viewmorediv{
     display: flex;
