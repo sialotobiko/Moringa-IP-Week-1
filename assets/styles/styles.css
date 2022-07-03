@@ -145,3 +145,14 @@ img{
     font-weight: bold;
     list-style: disc;
 }
+#featured{
+    color: #0F298B;
+    text-align: center;
+}
+#biggest{
+    text-align: center;
+}
+/*#featuredproperties{
+    display: flex;
+}
+*/
